@@ -64,7 +64,7 @@ PicAgent 为创作者与小型团队提供完整的 AI 生图工作流：素材�
 
 ## 开始使用
 
-1. 安装 `PicAgent-1.0.7.apk`（Android 8.0+）。
+1. 下载并安装 [PicAgent-1.0.7.apk](https://github.com/amu263/picagent/releases/download/v1.0.7/PicAgent-1.0.7.apk)（Android 8.0+）。
 2. 使用管理员提供的账号登录。
 3. 没有账号？向服务管理员获取一次性注册码后注册。
 
